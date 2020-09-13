@@ -54,6 +54,7 @@ Python 3; because it is the newest version of python and our coursework is compa
 In the Terminal:
 
 `python3 --version`
+
 Python 3.7.6 (default, Jan  8 2020, 13:42:34) 
 [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
