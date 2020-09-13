@@ -47,15 +47,18 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3; because it is the newest version of python and our coursework is compatible with version 3
 
 ### Q2. Which Python Version Installed   
 
 In the Terminal:
 
 `python3 --version`
+Python 3.7.6 (default, Jan  8 2020, 13:42:34) 
+[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
 
  
 
